@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "张伟 | 计算机科学博士"
+  navbar:
+    logo: images/logo.png
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: education.qmd
+        text: 教育经历
+      - href: honors.qmd
+        text: 获奖荣誉
+      - href: contact.qmd
+        text: 联系方式
+  page-footer:
+    center: 
+      - text: "© 2023 张伟. 保留所有权利。"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: article
