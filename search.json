@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "张伟 | 计算机科学博士",
+    "section": "",
+    "text": "欢迎访问我的学术主页！我是张伟，刚刚从清华大学获得计算机科学与技术博士学位。我的研究兴趣主要集中在人工智能和机器学习领域，尤其关注自然语言处理和计算机视觉的交叉应用。\n在博士阶段，我在教授张明的指导下完成了关于”多模态深度学习在医疗影像分析中的应用”的研究。我的工作旨在开发能够准确解读医学影像并结合临床文本数据提供诊断辅助的智能系统。"
+  },
+  {
+    "objectID": "index.html#个人简介",
+    "href": "index.html#个人简介",
+    "title": "张伟 | 计算机科学博士",
+    "section": "",
+    "text": "欢迎访问我的学术主页！我是张伟，刚刚从清华大学获得计算机科学与技术博士学位。我的研究兴趣主要集中在人工智能和机器学习领域，尤其关注自然语言处理和计算机视觉的交叉应用。\n在博士阶段，我在教授张明的指导下完成了关于”多模态深度学习在医疗影像分析中的应用”的研究。我的工作旨在开发能够准确解读医学影像并结合临床文本数据提供诊断辅助的智能系统。"
+  },
+  {
+    "objectID": "index.html#研究兴趣",
+    "href": "index.html#研究兴趣",
+    "title": "张伟 | 计算机科学博士",
+    "section": "研究兴趣",
+    "text": "研究兴趣\n\n多模态深度学习\n医疗人工智能\n自然语言处理\n计算机视觉"
+  },
+  {
+    "objectID": "index.html#最新消息",
+    "href": "index.html#最新消息",
+    "title": "张伟 | 计算机科学博士",
+    "section": "最新消息",
+    "text": "最新消息\n\n[2023-09] 🎓 获得清华大学计算机科学与技术博士学位\n[2023-08] 📄 论文被CVPR 2024接收\n[2023-06] 🏆 获得校级优秀博士论文奖"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "教育经历",
+    "section": "",
+    "text": "清华大学 | 北京\n计算机科学与技术 | 2018年9月 - 2023年7月\n导师：张明教授\n研究方向：多模态深度学习在医疗影像分析中的应用"
+  },
+  {
+    "objectID": "education.html#博士学位",
+    "href": "education.html#博士学位",
+    "title": "教育经历",
+    "section": "",
+    "text": "清华大学 | 北京\n计算机科学与技术 | 2018年9月 - 2023年7月\n导师：张明教授\n研究方向：多模态深度学习在医疗影像分析中的应用"
+  },
+  {
+    "objectID": "education.html#硕士学位",
+    "href": "education.html#硕士学位",
+    "title": "教育经历",
+    "section": "硕士学位",
+    "text": "硕士学位\n北京大学 | 北京\n计算机科学 | 2015年9月 - 2018年7月\n导师：李红教授\n研究方向：自然语言处理与知识图谱"
+  },
+  {
+    "objectID": "education.html#学士学位",
+    "href": "education.html#学士学位",
+    "title": "教育经历",
+    "section": "学士学位",
+    "text": "学士学位\n华中科技大学 | 武汉\n计算机科学与技术 | 2011年9月 - 2015年6月\nGPA: 3.92/4.0 (专业排名前5%)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "联系方式",
+    "section": "",
+    "text": "工作邮箱: zhangwei@example.com\n学术邮箱: zhangwei.thu@gmail.com"
+  },
+  {
+    "objectID": "contact.html#电子邮件",
+    "href": "contact.html#电子邮件",
+    "title": "联系方式",
+    "section": "",
+    "text": "工作邮箱: zhangwei@example.com\n学术邮箱: zhangwei.thu@gmail.com"
+  },
+  {
+    "objectID": "contact.html#社交媒体",
+    "href": "contact.html#社交媒体",
+    "title": "联系方式",
+    "section": "社交媒体",
+    "text": "社交媒体\n\nGitHub\nLinkedIn\nResearchGate\nGoogle Scholar"
+  },
+  {
+    "objectID": "contact.html#通信地址",
+    "href": "contact.html#通信地址",
+    "title": "联系方式",
+    "section": "通信地址",
+    "text": "通信地址\n北京市海淀区清华大学\n计算机科学与技术系\n张伟 收\n邮编: 100084"
+  },
+  {
+    "objectID": "contact.html#办公室",
+    "href": "contact.html#办公室",
+    "title": "联系方式",
+    "section": "办公室",
+    "text": "办公室\n清华大学计算机科学与技术楼 3号楼 405室"
+  },
+  {
+    "objectID": "contact.html#研究合作",
+    "href": "contact.html#研究合作",
+    "title": "联系方式",
+    "section": "研究合作",
+    "text": "研究合作\n如果您对我的研究感兴趣或希望进行合作，欢迎通过电子邮件与我联系。我很乐意讨论潜在的研究项目、合作机会或者演讲邀请。"
+  },
+  {
+    "objectID": "honors.html",
+    "href": "honors.html",
+    "title": "获奖荣誉",
+    "section": "",
+    "text": "清华大学优秀博士论文奖 (2023)\n论文题目：《多模态深度学习在医疗影像分析中的应用》\n国家奖学金 - 博士生 (2021, 2022)\n中国教育部颁发，表彰学术表现优异的博士研究生\nIEEE医学影像学会青年研究者奖 (2022)\n表彰在医学影像处理领域做出突出贡献的年轻研究者\nMICCAI最佳论文提名奖 (2021)\n论文题目：《Improving Medical Image Segmentation via Adversarial Learning with Disentangled Representations》"
+  },
+  {
+    "objectID": "honors.html#学术奖项",
+    "href": "honors.html#学术奖项",
+    "title": "获奖荣誉",
+    "section": "",
+    "text": "清华大学优秀博士论文奖 (2023)\n论文题目：《多模态深度学习在医疗影像分析中的应用》\n国家奖学金 - 博士生 (2021, 2022)\n中国教育部颁发，表彰学术表现优异的博士研究生\nIEEE医学影像学会青年研究者奖 (2022)\n表彰在医学影像处理领域做出突出贡献的年轻研究者\nMICCAI最佳论文提名奖 (2021)\n论文题目：《Improving Medical Image Segmentation via Adversarial Learning with Disentangled Representations》"
+  },
+  {
+    "objectID": "honors.html#竞赛荣誉",
+    "href": "honors.html#竞赛荣誉",
+    "title": "获奖荣誉",
+    "section": "竞赛荣誉",
+    "text": "竞赛荣誉\n\nMICCAI Challenge: Brain Tumor Segmentation 第二名 (2022) 开发了一种新型的脑肿瘤分割算法，在全球150多个参赛队伍中名列前茅\nIEEE数据挖掘竞赛最佳创新奖 (2020) 开发了创新的数据挖掘算法，用于医疗数据分析"
+  },
+  {
+    "objectID": "honors.html#其他荣誉",
+    "href": "honors.html#其他荣誉",
+    "title": "获奖荣誉",
+    "section": "其他荣誉",
+    "text": "其他荣誉\n\n清华大学优秀毕业生 (2023)\n清华大学计算机系学术之星 (2022)\n研究生学术创新能力培养计划 (2019-2022)"
+  }
+]
