@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "张伟 | 计算机科学博士"
+  title: "张乐乐 | 农业工程与信息技术硕士"
   navbar:
     logo: images/logo.png
     background: primary
@@ -19,7 +19,7 @@ website:
         text: 联系方式
   page-footer:
     center: 
-      - text: "© 2023 张伟. 保留所有权利。"
+      - text: "© 2025 张乐乐. 保留所有权利。"
 
 format:
   html:
