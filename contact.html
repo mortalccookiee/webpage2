@@ -125,8 +125,6 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#电子邮件" id="toc-电子邮件" class="nav-link active" data-scroll-target="#电子邮件">电子邮件</a></li>
   <li><a href="#社交媒体" id="toc-社交媒体" class="nav-link" data-scroll-target="#社交媒体">社交媒体</a></li>
-  <li><a href="#通信地址" id="toc-通信地址" class="nav-link" data-scroll-target="#通信地址">通信地址</a></li>
-  <li><a href="#办公室" id="toc-办公室" class="nav-link" data-scroll-target="#办公室">办公室</a></li>
   <li><a href="#研究合作" id="toc-研究合作" class="nav-link" data-scroll-target="#研究合作">研究合作</a></li>
   </ul>
 </nav>
@@ -156,29 +154,18 @@ ul.task-list li input[type="checkbox"] {
 <section id="电子邮件" class="level2">
 <h2 class="anchored" data-anchor-id="电子邮件">电子邮件</h2>
 <ul>
-<li>工作邮箱: zhangwei@example.com</li>
-<li>学术邮箱: zhangwei.thu@gmail.com</li>
+<li>工作邮箱: zll1619983555@163.com</li>
+<li>学术邮箱: zll0726@webmail.hzau.edu.com</li>
 </ul>
 </section>
 <section id="社交媒体" class="level2">
 <h2 class="anchored" data-anchor-id="社交媒体">社交媒体</h2>
 <ul>
-<li><a href="https://github.com/zhangwei">GitHub</a></li>
-<li><a href="https://linkedin.com/in/zhangwei">LinkedIn</a></li>
-<li><a href="https://www.researchgate.net/profile/Wei-Zhang-CS">ResearchGate</a></li>
-<li><a href="https://scholar.google.com/citations?user=zhangwei">Google Scholar</a></li>
+<li><a href="https://github.com/motralccookiee">GitHub</a></li>
+<li><a href="https://linkedin.com/in/zhanglele">LinkedIn</a></li>
+<li><a href="https://www.researchgate.net/profile/zll-CS">ResearchGate</a></li>
+<li><a href="https://scholar.google.com/citations?user=zhanglele">Google Scholar</a></li>
 </ul>
-</section>
-<section id="通信地址" class="level2">
-<h2 class="anchored" data-anchor-id="通信地址">通信地址</h2>
-<p>北京市海淀区清华大学<br>
-计算机科学与技术系<br>
-张伟 收<br>
-邮编: 100084</p>
-</section>
-<section id="办公室" class="level2">
-<h2 class="anchored" data-anchor-id="办公室">办公室</h2>
-<p>清华大学计算机科学与技术楼 3号楼 405室</p>
 </section>
 <section id="研究合作" class="level2">
 <h2 class="anchored" data-anchor-id="研究合作">研究合作</h2>
@@ -278,7 +265,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/mortalccookiee\.github\.io\/webpage2\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
