@@ -1,5 +1,5 @@
 ---
-title: "张伟 | 计算机科学博士"
+title: "张乐乐 | 农业工程与信息技术硕士"
 page-layout: full
 toc: false
 about:
@@ -8,30 +8,15 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/zhangwei
+      href: https://github.com/mortalccookiee
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/zhangwei
+      href: https://linkedin.com/in/zhanglele
     - icon: envelope
       text: Email
-      href: mailto:zhangwei@example.com
+      href: mailto:zll1619983555@163.com
 ---
 
 ## 个人简介
 
-欢迎访问我的学术主页！我是张伟，刚刚从清华大学获得计算机科学与技术博士学位。我的研究兴趣主要集中在**人工智能**和**机器学习**领域，尤其关注自然语言处理和计算机视觉的交叉应用。
-
-在博士阶段，我在教授张明的指导下完成了关于"多模态深度学习在医疗影像分析中的应用"的研究。我的工作旨在开发能够准确解读医学影像并结合临床文本数据提供诊断辅助的智能系统。
-
-## 研究兴趣
-
-- 多模态深度学习
-- 医疗人工智能
-- 自然语言处理
-- 计算机视觉
-
-## 最新消息
-
-- [2023-09] 🎓 获得清华大学计算机科学与技术博士学位
-- [2023-08] 📄 论文被CVPR 2024接收
-- [2023-06] 🏆 获得校级优秀博士论文奖
+欢迎访问我的学术主页！我是张乐乐，目前在华中农业大学硕士在读。我的研究兴趣主要集中在地理信息系统在水土保持的相关研究以及水土保持生态产品价值核算。

@@ -4,26 +4,15 @@ title: "联系方式"
 
 ## 电子邮件
 
-- 工作邮箱: zhangwei@example.com
-- 学术邮箱: zhangwei.thu@gmail.com
+- 工作邮箱: zll1619983555@163.com
+- 学术邮箱: zll0726@webmail.hzau.edu.com
 
 ## 社交媒体
 
-- [GitHub](https://github.com/zhangwei)
-- [LinkedIn](https://linkedin.com/in/zhangwei)
-- [ResearchGate](https://www.researchgate.net/profile/Wei-Zhang-CS)
-- [Google Scholar](https://scholar.google.com/citations?user=zhangwei)
-
-## 通信地址
-
-北京市海淀区清华大学  
-计算机科学与技术系  
-张伟 收  
-邮编: 100084
-
-## 办公室
-
-清华大学计算机科学与技术楼 3号楼 405室
+- [GitHub](https://github.com/motralccookiee)
+- [LinkedIn](https://linkedin.com/in/zhanglele)
+- [ResearchGate](https://www.researchgate.net/profile/zll-CS)
+- [Google Scholar](https://scholar.google.com/citations?user=zhanglele)
 
 ## 研究合作
 
