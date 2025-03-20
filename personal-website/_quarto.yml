@@ -5,7 +5,7 @@ project:
 website:
   title: "张乐乐 | 农业工程与信息技术硕士"
   navbar:
-    logo: images/logo.png
+    logo: images/profile-photo.jpg
     background: primary
     search: true
     left:
@@ -19,7 +19,7 @@ website:
         text: 联系方式
   page-footer:
     center: 
-      - text: "© 2025 张乐乐. 保留所有权利。"
+      - text: "© 2025 张乐乐1. 保留所有权利。"
 
 format:
   html:
